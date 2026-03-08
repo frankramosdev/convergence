@@ -16,7 +16,7 @@ cre workflow simulate my-workflow --broadcast
 Select HTTP trigger (option 1) and enter:
 
 ```json
-{ "question": "Will Argentina win the 2022 World Cup?" }
+{ "question": "Will the New England Patriots win Super Bowl LX in 2026?" }
 ```
 
 ### 1. Place a prediction
