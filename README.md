@@ -4,6 +4,8 @@ Convergence Chainlink Hackathon 2026
 
 ## AI Powered Prediction Market
 
+## <a href="[https://www.youtube.com/watch?v=3UhuLQGugmU](https://www.youtube.com/watch?v=3UhuLQGugmU)">Play demo video on youtube:</a>
+
 [![Chainlink Convergence Hackathon 2026](https://img.youtube.com/vi/3UhuLQGugmU/0.jpg)]([https://www.youtube.com](https://www.youtube.com/watch?v=3UhuLQGugmU) "Chainlink Convergence Hackathon 2026")
 
 ### 1. Create a Prediction Market (HTTP Trigger)
